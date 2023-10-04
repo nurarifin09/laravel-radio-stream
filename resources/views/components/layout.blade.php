@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Laravel News Podcast Player</title>
+        <title>Radio Islam Player</title>
         <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     </head>
     <body class="min-h-screen bg-gray-50 font-sans text-black antialiased">
@@ -16,10 +16,10 @@
                 >
                     <img
                         src="/images/logo.svg"
-                        alt="Laravel News"
+                        alt="Radio Islam"
                         class="mx-auto w-12"
                     />
-                    <span>Laravel News Podcast</span>
+                    <span>Radio Islam</span>
                 </a>
             @endpersist
 
